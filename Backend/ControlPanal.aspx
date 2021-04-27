@@ -9,7 +9,7 @@
     <h2>Control Panal</h2>
 
     <table>
-        <tr>  <!-- Later use-->
+        <tr>  <!-- Later use--> <!--Testing-->
             <td><a href="ECarsMgr.aspx" runat="server">Add a Car to Your Garage</a></td>
         </tr>
         <tr>
