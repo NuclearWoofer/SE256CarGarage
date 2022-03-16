@@ -1,3 +1,3 @@
-# SE256CarGarage
+.NET & SQL || Mike's Garage Project
 
-SE256 ASP.NET/SQL Project
+Creating a basic application to take in appointments for automobile service. 
